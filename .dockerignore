@@ -1,0 +1,23 @@
+# Seuls les fichiers utiles à l'application entrent dans l'image.
+.env
+.env.*
+.git
+.github
+.venv
+venv
+__pycache__
+*.pyc
+*.db
+*.db-*
+*.sqlite*
+*.log
+*.sql
+*.dump
+*.pem
+*.key
+credentials*.json
+.pytest_cache
+tests
+docs
+backups
+data
