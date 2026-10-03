@@ -2,7 +2,7 @@
 
 **Veille d’offres d’emploi, classement par pertinence et notifications automatisées.**
 
-Projet développé par **Carole DAPAH** pour centraliser une recherche dispersée entre plusieurs sources et faciliter le suivi des opportunités. L’application rassemble les offres, applique des critères métier et géographiques, explique leur score de correspondance et les présente dans un tableau de bord.
+Projet développé par **Moi** pour centraliser une recherche dispersée entre plusieurs sources et faciliter le suivi des opportunités. L’application rassemble les offres, applique des critères métier et géographiques, explique leur score de correspondance et les présente dans un tableau de bord.
 
 **Stack :** Python · FastAPI · SQLAlchemy · PostgreSQL / SQLite · Jinja2 · APScheduler · Docker Compose · pytest
 
