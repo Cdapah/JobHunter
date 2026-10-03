@@ -1,0 +1,32 @@
+# Secrets et configuration privée
+.env
+.env.*
+!.env.example
+!.env.docker.example
+*.pem
+*.key
+credentials*.json
+
+# Données d'exécution
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.log
+*.sql
+*.dump
+backups/
+data/
+
+# Python et outils
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+.DS_Store
